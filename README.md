@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### 3. Get FREE Groq API key
 - Go to https://console.groq.com
 - Sign up and create API key
-- Create .env file and add: GROQ_API_KEY=your_key_here
+- Create .env file and add: GROQ_API_KEY=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
 
 ### 4. Ingest knowledge base
 python3 ingest.py
