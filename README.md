@@ -22,7 +22,7 @@ An intelligent financial advisor chatbot built using RAG (Retrieval-Augmented Ge
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/rag-finance-chatbot.git
+git clone https://github.com/MansiNegi281/rag-finance-chatbot.git
 cd rag-finance-chatbot
 
 ### 2. Install dependencies
